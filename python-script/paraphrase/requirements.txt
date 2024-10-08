@@ -1,0 +1,14 @@
+#seaborn==0.10.1
+#nltk==3.6.6
+numpy
+torch
+#Flask==2.3.2
+transformers
+pandas
+requests
+httplib2
+pytorch_lightning
+#streamlit==1.30.0
+tensorflow_hub
+tensorflow
+datasets
